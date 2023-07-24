@@ -16,7 +16,7 @@ function Signin() {
                 justifyContent: "center"
             }}>
                 <Typography variant={"h6"}>
-                Welcome to Coursera. Sign up below
+                Welcome back to Coursera. Sign in below
                 </Typography>
             </div>
         <div style={{display: "flex", justifyContent: "center"}}>
